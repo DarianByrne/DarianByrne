@@ -20,4 +20,4 @@ I have experience in ...
 - Discord API
 - and more...!
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=DarianByrne&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark&hide=Assembly" alt="ovi" />
+![Top Languages](./profile/top-langs.svg)
